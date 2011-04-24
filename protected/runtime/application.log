@@ -1,0 +1,462 @@
+2011/04/24 22:50:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/?r=gii
+2011/04/24 22:50:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:51:43 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:54:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:54:51 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:54:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:55:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:57:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:57:05 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 22:57:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/jannystr/yii/gii/GiiModule.php:163
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('gii')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/index.php?r=gii
+2011/04/24 23:22:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:22:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:39:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:39:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:39:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:39:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:39:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:45:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:46:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:46:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:47:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/24 23:58:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:05:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:05:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "home".' in /home/jannystr/yii/web/CController.php:477
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(262): CController->missingAction('home')
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('home')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('site/home')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/site/home
+2011/04/25 00:05:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:05:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2011/04/25 00:05:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "home".' in /home/jannystr/yii/web/CController.php:477
+Stack trace:
+#0 /home/jannystr/yii/web/CController.php(262): CController->missingAction('home')
+#1 /home/jannystr/yii/web/CWebApplication.php(328): CController->run('home')
+#2 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('site/home')
+#3 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#4 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/site/home
+2011/04/25 00:05:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/jannystr/yii/web/CWebApplication.php:332
+Stack trace:
+#0 /home/jannystr/yii/web/CWebApplication.php(121): CWebApplication->runController('favicon.ico')
+#1 /home/jannystr/yii/base/CApplication.php(155): CWebApplication->processRequest()
+#2 /home/jannystr/public_html/frisbeegolf/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
